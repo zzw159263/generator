@@ -1,4 +1,4 @@
-#### 为了项目的长远发展，renren-generator已合并到 【[renren-security](https://gitee.com/renrenio/renren-security)】里面，以后会在renren-security里面进行更新维护，感谢支持！ :smiley: 
+#### 为了项目的长远发展，renren-generator已迁移到 【[renren-security](https://gitee.com/renrenio/renren-security)】里面，以后会在renren-security里面进行更新维护，感谢支持！ :smiley: 
 <br> 
 
 **项目说明** 
